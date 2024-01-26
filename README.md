@@ -1,2 +1,2 @@
-# Netflix-clone-
+# Netflix-clone
 Netflix Home page clone using HTML and CSS.
